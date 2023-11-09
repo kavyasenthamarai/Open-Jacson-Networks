@@ -22,9 +22,11 @@ Visual components and Python
 ![image](https://github.com/kavyasenthamarai/Open-Jacson-Networks/assets/118668727/fa2be2dc-366e-41f3-9854-a76e9c90748b)
 
 ## Program
+```
 DEVELOPED BY :KAVYA K
 REGISTER NO : 212222230065
-
+```
+```
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
 ser_time1=float(input("Enter the mean  inter service time of Lathe Machine 1 (in secs) :  "))
 ser_time2=float(input("Enter the mean  inter service time of Lathe Machine 2 (in secs) :  "))
@@ -61,7 +63,7 @@ if (lam <  mu1) and (lam <  mu2) and (lam <  mu3):
     print("Average waiting time of an object in the conveyor S3 : %0.2f secs"%Wq3)
 else:
     print("Warning! Objects Over flow will happen in the conveyor")
-
+```
 ## Output
 ![image](https://github.com/kavyasenthamarai/Open-Jacson-Networks/assets/118668727/e7f70a4b-ba6d-4177-a078-21763a3c70c7)
 
